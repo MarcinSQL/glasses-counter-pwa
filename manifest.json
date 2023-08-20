@@ -6,8 +6,8 @@
   "background_color": "#3767AD",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/glasses-counter-pwa/",
+  "start_url": "/glasses-counter-pwa/",
   "icons": [
     {
       "src": "/pwa/icons/manifest-icon-192.maskable.png",
