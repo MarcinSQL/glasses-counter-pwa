@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "short_name": "",
+  "description": "",
+  "theme_color": "#",
+  "background_color": "#",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+  
+  ]
+}
