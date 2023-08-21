@@ -13,10 +13,53 @@ html {
 body {
   font-family: "Roboto", Arial;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  background-color: #3767AD;
+  min-height: 90vh;
+  background-color: #3767ad;
   color: whitesmoke;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.main__heading {
+  font-size: 3rem;
+}
+.main__glass {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+.main__glass__img {
+  min-width: 280px;
+}
+.main__glass__counter {
+  position: absolute;
+  left: 50%;
+  bottom: 20%;
+  transform: translateX(-50%);
+  font-size: 6rem;
+  margin: 0 auto;
+}
+.main__add-btn {
+  background-color: whitesmoke;
+  border: none;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2509803922);
+  border-radius: 4px;
+  width: 75%;
+  margin: 2rem 0 1.5rem 0;
+  padding: 0.7rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.main__remove-btn {
+  background: none;
+  border: none;
+  color: whitesmoke;
+  padding: 0.5rem;
 }/*# sourceMappingURL=style.css.map */
