@@ -1,4 +1,4 @@
-[Banner](icons/apple-splash-640-1136.jpg)
+![Banner](icons/apple-splash-640-1136.jpg)
 
 # Glasses counter PWA
 
